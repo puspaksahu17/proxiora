@@ -913,6 +913,7 @@
                                     </span>
                                 </div>
                                 <a class="tmp-btn round" target="_blank" href="contact.html">Start Free Trial</a>
+                                <a class="tmp-btn round" target="_blank" href="/login">Login</a>
                             </div>
                             <!-- End Header Btn  -->
 
