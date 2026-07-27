@@ -18,4 +18,4 @@ RUN composer install --no-dev --optimize-autoloader
 
 EXPOSE 10000
 
-CMD php artisan migrate --force && php artisan config:cache && php artisan db:seed && php artisan serve --host=0.0.0.0 --port=$PORT
+CMD php artisan migrate --force && php artisan config:cache && php artisan db:seed --force && php artisan serve --host=0.0.0.0 --port=$PORT
