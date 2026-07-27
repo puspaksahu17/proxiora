@@ -22,6 +22,7 @@ class DatabaseSeeder extends Seeder
             'email' => 'admin@proxiora.test',
             'role' => 'admin',
             'mobile' => '0000000000',
+            'password' => 'password',
         ]);
     }
 }
