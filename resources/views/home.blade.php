@@ -7,9 +7,9 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="theme-style-mode" content="1">
-    <meta name="description" content="Transform your business with expert consulting. Our team delivers strategic insights, innovative solutions, and professional guidance to help you achieve lasting success.">
+    <meta name="description" content="">
 
-    <title>Home Consulting || Corpox Business and Consulting Bootstrap5 Template</title>
+    <title>Proxiora Consulting private limited</title>
     <!-- Favicon -->
     <link rel="shortcut icon" type="image/x-icon" href="assets/images/favicon.png">
     <!-- CSS ============================================ -->
@@ -1756,7 +1756,7 @@
                     <div class="col-lg-5 order-lg-1 order-md-2 order-sm-2 order-2 mt_md--30 mt_sm--30">
                         <div class="it-solution-banner-area-content">
                             <h6 class="tag-title">Empowering Careers, Shaping Your Futures</h6>
-                            <h1 class="title tmp-title-split"><div style="position:relative;display:inline-block;"><div style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; visibility: inherit; transform: translate(0px, 0px);">W</div><div style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; visibility: inherit; transform: translate(0px, 0px);">e</div></div> <div style="position:relative;display:inline-block;"><div style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; visibility: inherit; transform: translate(0px, 0px);">C</div><div style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; visibility: inherit; transform: translate(0px, 0px);">a</div><div style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; visibility: inherit; transform: translate(0px, 0px);">r</div><div style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; visibility: inherit; transform: translate(0px, 0px);">e</div></div> <div style="position:relative;display:inline-block;"><div style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; visibility: inherit; transform: translate(0px, 0px);">Y</div><div style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; visibility: inherit; transform: translate(0px, 0px);">o</div><div style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; visibility: inherit; transform: translate(0px, 0px);">u</div><div style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; visibility: inherit; transform: translate(0px, 0px);">r</div></div> <div style="position:relative;display:inline-block;"><div style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; visibility: inherit; transform: translate(0px, 0px);">a</div><div style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; visibility: inherit; transform: translate(0px, 0px);">n</div><div style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; visibility: inherit; transform: translate(0px, 0px);">y</div></div> <br> <div style="position:relative;display:inline-block;"> <div style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; visibility: inherit; transform: translate(0px, 0px);">I</div><div style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; visibility: inherit; transform: translate(0px, 0px);">T</div></div> <div style="position:relative;display:inline-block;"><div style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; visibility: inherit; transform: translate(0px, 0px);">S</div><div style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; visibility: inherit; transform: translate(0px, 0px);">o</div><div style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; visibility: inherit; transform: translate(0px, 0px);">l</div><div style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; visibility: inherit; transform: translate(0px, 0px);">u</div><div style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; visibility: inherit; transform: translate(0px, 0px);">t</div><div style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; visibility: inherit; transform: translate(0px, 0px);">i</div><div style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; visibility: inherit; transform: translate(0px, 0px);">o</div><div style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; visibility: inherit; transform: translate(0px, 0px);">n</div></div></h1>
+                            <h3 class="title ">THE REAL CHALLENGES.<br>THE RIGHT GUIDANCE</h3>
                             <p class="disc">
                                 Expert strategic guidance for students transitioning to professional roles and startups scaling their operations.
                             </p>
@@ -1767,13 +1767,13 @@
                                         <span><i class="feather-play"></i></span>
                                     </a>
                                 </div>
-                                <a class="btn-read-more" href="about.html"><span>Get in touch with us</span></a>
+                                <a class="btn-read-more" href="#contactus"><span>Get in touch with us</span></a>
                             </div>
                         </div>
                     </div>
                     <div class="col-lg-7 pl--80 pl_md--10 pl_sm--10 order-lg-2 order-md-1 order-sm-1 order-1">
                         <div class="thumbnail-banner-right-it">
-                            <img src="assets/images/banner/10.webp" alt="thumbnail_ite-solution">
+                            <img src="assets/images/banner/10.png" alt="thumbnail_ite-solution">
                             <div class="dots shape-image">
                                 <img data-speed="0.03" data-revert="true" src="assets/images/banner/banner_dot.png" alt="dot" class="dot-1 shape" style="translate: none; rotate: none; scale: none; transform: translate(2.08px, 12.16px);">
                                 <img data-speed="0.03" src="assets/images/banner/banner_dot.png" alt="dot" class="dot-2 shape" style="translate: none; rotate: none; scale: none; transform: translate(-0.08px, -10.16px);">
@@ -1956,187 +1956,6 @@
             </div>
         </div>
         <!-- End About Area  -->
-
-
-        <!-- Start Main Counter up-5 Area  -->
-        <div class="tmp-counterup-area tmp-section-gapBottom">
-            <div class="container">
-                <div class="row">
-                    <div class="col-lg-12">
-                        <div class="tmp-section-title-border text-center">
-                            <div class="pres-line-separator-wrapper text-center mb--10">
-                                <div class="line-separator line-left"></div>
-                                <span class="subtitle">
-                                    <span class="number">+15000</span>
-                                <span class="subtitle-text">Trusted</span>
-                                </span>
-                                <div class="line-separator line-right"></div>
-                            </div>
-                            <h2 class="title w-700 tmp-title-split">Happy customers.</h2>
-                        </div>
-                    </div>
-                </div>
-                <div class="row g-5 mt--20 tmp_jump_animation-wrapper">
-                    <div class="col-lg-3 col-md-6 col-sm-6 col-12 tmp-jump__item">
-                        <div class="count-box counter-style-4 tmp-card text-center without-border tmponhover">
-                            <div>
-                                <div class="count-number"><span class="odometer" data-count="199">000</span>K</div>
-                            </div>
-                            <h5 class="counter-title">Happy Clients.</h5>
-                            <div class="left-hover-counter"></div>
-                            <div class="right-hover-counter"></div>
-                        </div>
-                    </div>
-
-                    <div class="col-lg-3 col-md-6 col-sm-6 col-12 tmp-jump__item" data-sal-delay="100">
-                        <div class="count-box counter-style-4 tmp-card text-center without-border tmponhover">
-                            <div>
-                                <div class="count-number"><span class="odometer" data-count="575">000</span>+</div>
-                            </div>
-                            <h5 class="counter-title">Employees</h5>
-                            <div class="left-hover-counter"></div>
-                            <div class="right-hover-counter"></div>
-                        </div>
-                    </div>
-
-                    <div class="col-lg-3 col-md-6 col-sm-6 col-12 tmp-jump__item" data-sal-delay="200">
-                        <div class="count-box counter-style-4 tmp-card text-center without-border tmponhover">
-                            <div>
-                                <div class="count-number"><span class="odometer" data-count="69">00</span>M</div>
-                            </div>
-                            <h5 class="counter-title">Useful Programs</h5>
-                            <div class="left-hover-counter"></div>
-                            <div class="right-hover-counter"></div>
-                        </div>
-                    </div>
-
-                    <div class="col-lg-3 col-md-6 col-sm-6 col-12 tmp-jump__item" data-sal-delay="300">
-                        <div class="count-box counter-style-4 tmp-card text-center without-border tmponhover">
-                            <div>
-                                <div class="count-number"><span class="odometer" data-count="500">000</span>+</div>
-                            </div>
-                            <h5 class="counter-title">Useful Programs</h5>
-                            <div class="left-hover-counter"></div>
-                            <div class="right-hover-counter"></div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <!-- End Main Counter up-5 Area  -->
-
-
-        <!-- Start testimonial  five-->
-        <div class="tmp-testimonial-area tmp-section-gapBottom">
-            <div class="container pb--70">
-                <div class="row mb--30">
-                    <div class="col-lg-12">
-                        <div class="tmp-section-title-border text-center">
-                            <div class="pres-line-separator-wrapper text-center mb--10">
-                                <div class="line-separator line-left"></div>
-                                <span class="subtitle">
-                                    <span class="number">+3</span>
-                                <span class="subtitle-text">Client Feedback</span>
-                                </span>
-                                <div class="line-separator line-right"></div>
-                            </div>
-                            <h2 class="title w-700 tmp-title-split">Client Feedback.</h2>
-                        </div>
-                    </div>
-                </div>
-                <div class="row tmp-slick-dot tmp-slick-arrow testimonial-activation">
-                    <div class="col-lg-12">
-                        <!-- Start single Testimonial -->
-                        <div class="testimonial-style-two">
-                            <div class="row align-items-center row--30">
-                                <div class="col-lg-5 col-md-4">
-                                    <div class="thumbnail"><img class="w-100" src="assets/images/testimonial/testimonial-dark-01.jpg" alt="Corporate Template"></div>
-                                </div>
-                                <div class="col-lg-7 col-md-8">
-                                    <div class="content mt_sm--40"><span class="form">USA</span>
-                                        <p class="description">When taking on new projects, I primarily look for a strong visual and aesthetic alignment, as well as a meaningful personal connection.
-                                        </p>
-                                        <div class="rating mb--15">
-                                            <a href="#" tabindex="0"><img src="assets/images/icons/stars.svg" alt=""></a>
-                                            <a href="#" tabindex="0"><img src="assets/images/icons/stars.svg" alt=""></a>
-                                            <a href="#" tabindex="0"><img src="assets/images/icons/stars.svg" alt=""></a>
-                                            <a href="#" tabindex="0"><img src="assets/images/icons/stars.svg" alt=""></a>
-                                            <a href="#" tabindex="0"><img src="assets/images/icons/stars.svg" alt=""></a>
-                                        </div>
-                                        <div class="client-info">
-                                            <h4 class="title">Darun Due</h4>
-                                            <h6 class="subtitle">Business Developer</h6>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <!-- End single Testimonial -->
-                    </div>
-
-                    <div class="cal-lg-12">
-                        <!-- Start single Testimonial -->
-                        <div class="testimonial-style-two">
-                            <div class="row align-items-center row--30">
-                                <div class="col-lg-5 col-md-4">
-                                    <div class="thumbnail"><img class="w-100" src="assets/images/testimonial/testimonial-dark-02.jpg" alt="Corporate Template"></div>
-                                </div>
-                                <div class="col-lg-7 col-md-8">
-                                    <div class="content mt_sm--40"><span class="form">INDIA</span>
-                                        <p class="description">When taking on new projects, I primarily look for a strong visual and aesthetic alignment, as well as a meaningful personal connection.
-                                        </p>
-                                        <div class="rating mb--15">
-                                            <a href="#" tabindex="0"><img src="assets/images/icons/stars.svg" alt=""></a>
-                                            <a href="#" tabindex="0"><img src="assets/images/icons/stars.svg" alt=""></a>
-                                            <a href="#" tabindex="0"><img src="assets/images/icons/stars.svg" alt=""></a>
-                                            <a href="#" tabindex="0"><img src="assets/images/icons/stars.svg" alt=""></a>
-                                            <a href="#" tabindex="0"><img src="assets/images/icons/stars.svg" alt=""></a>
-                                        </div>
-                                        <div class="client-info">
-                                            <h4 class="title">Mohima Ale</h4>
-                                            <h6 class="subtitle">Business Developer</h6>
-                                        </div>
-                                    </div>
-                                </div>
-
-                            </div>
-                        </div>
-                        <!-- End single Testimonial -->
-                    </div>
-
-                    <div class="coll-lg-12">
-                        <!-- Start single Testimonial -->
-                        <div class="testimonial-style-two">
-                            <div class="row align-items-center row--30">
-                                <div class="col-lg-5 col-md-4">
-                                    <div class="thumbnail"><img class="w-100" src="assets/images/testimonial/testimonial-dark-03.jpg" alt="Corporate Template"></div>
-                                </div>
-                                <div class="col-lg-7 col-md-8">
-                                    <div class="content mt_sm--40"><span class="form">Bangladesh</span>
-                                        <p class="description">When taking on new projects, I primarily look for a strong visual and aesthetic alignment, as well as a meaningful personal connection.
-                                        </p>
-                                        <div class="rating mb--15">
-                                            <a href="#" tabindex="0"><img src="assets/images/icons/stars.svg" alt=""></a>
-                                            <a href="#" tabindex="0"><img src="assets/images/icons/stars.svg" alt=""></a>
-                                            <a href="#" tabindex="0"><img src="assets/images/icons/stars.svg" alt=""></a>
-                                            <a href="#" tabindex="0"><img src="assets/images/icons/stars.svg" alt=""></a>
-                                            <a href="#" tabindex="0"><img src="assets/images/icons/stars.svg" alt=""></a>
-                                        </div>
-                                        <div class="client-info">
-                                            <h4 class="title">John Roni</h4>
-                                            <h6 class="subtitle">Marketing Expart</h6>
-                                        </div>
-                                    </div>
-                                </div>
-
-                            </div>
-                        </div>
-                        <!-- End single Testimonial -->
-                    </div>
-                </div>
-            </div>
-        </div>
-        <!-- End testimonial five  -->
 
         <!-- Start Timeline-Style-Four  -->
         <div class="tmp-timeline-area tmp-section-gapBottom">
@@ -2459,7 +2278,7 @@
                                                 <h2 class="title tmp-title-split">Talent deserves <br> <span class="theme-gradient"><b>The right direction.</b></span></h2>
                                                 <h6 class="subtitle tmp-title-split">Finest choice for your career and growth</h6>
                                                 <div class="call-to-btn d-flex justify-content-center">
-                                                    <a class="tmp-btn btn-extra-large hover-icon-reverse" target="_blank" href="https://themeforest.net/item/corpox-business-consulting-bootstrap-5-html-template/59767866">
+                                                    <a class="tmp-btn btn-extra-large hover-icon-reverse" href="#contactus">
                                                         <span class="icon-reverse-wrapper">
                                                             <span class="btn-text">Start Now</span>
                                                         <span class="btn-icon"><i class="feather-arrow-right"></i></span>
@@ -2468,7 +2287,7 @@
                                                     </a>
                                                 </div>
                                             </div>
-                                            <div class="tmp-profile-box mt--50">
+                                            <!-- <div class="tmp-profile-box mt--50">
                                                 <div class="profile-share justify-content-center">
                                                     <a href="#" class="avatar" data-tooltip="Mark JOrdan" tabindex="0"><img src="assets/images/testimonial/tooltip-01.png" alt="education"></a>
                                                     <a href="#" class="avatar" data-tooltip="Mark" tabindex="0"><img src="assets/images/testimonial/tooltip-02.png" alt="education"></a>
@@ -2480,7 +2299,7 @@
                                                         </p>
                                                     </div>
                                                 </div>
-                                            </div>
+                                            </div> -->
                                         </div>
                                     </div>
                                     <!-- <div class="shape-image wow move-out">
@@ -2517,20 +2336,20 @@
                                 </span>
                                 <div class="line-separator line-right"></div>
                             </div>
-                            <h2 class="title w-700 tmp-title-split">Our Yearly & Monthly Pricing</h2>
-                            <p class="description b1 tmp-title-split-p">Easily schedule your appointment with just a few clicks. Our team is <br> always ready to assist you at your preferred time.</p>
+                            <h2 class="title w-700 tmp-title-split">Individual Subscription Plans</h2>
+                            <p class="description b1 tmp-title-split-p">Empowering your career journey with flexible scaling.</p>
                         </div>
                     </div>
                 </div>
                 <div class="row mt--20">
                     <div class="col-lg-12">
                         <ul class="nav nav-tabs pricing-tab-nav-yearly" id="myTab" role="tablist">
-                            <li class="nav-item" role="presentation">
+                            <!-- <li class="nav-item" role="presentation">
                                 <button class="nav-link tmp-btn btn-border active" id="home-tab" data-bs-toggle="tab" data-bs-target="#home" type="button" role="tab" aria-controls="home" aria-selected="true">Monthly Plan</button>
                             </li>
                             <li class="nav-item" role="presentation">
                                 <button class="nav-link tmp-btn btn-border" id="profile-tab" data-bs-toggle="tab" data-bs-target="#profile" type="button" role="tab" aria-controls="profile" aria-selected="false">Yearly Plan</button>
-                            </li>
+                            </li> -->
                         </ul>
                         <div class="tab-content pricing-table-items mt--40" id="myTabContent">
                             <div class="tab-pane fade show active" id="home" role="tabpanel" aria-labelledby="home-tab">
@@ -2539,38 +2358,16 @@
                                         <div class="pricing-table large-padding tmponhover" style="--x: 473.5px; --y: 112.109375px;">
                                             <div class="pricing-table-header">
                                                 <div class="top d-flex justify-content-between align-items-start">
-                                                    <h4>basic</h4>
+                                                    <h4>Path Finder</h4>
 
                                                 </div>
-                                                <h1>$59 <span>/ Month</span></h1>
+                                                <h1>₹199 <span>/ Month</span></h1>
                                             </div>
                                             <ul class="feature-lists">
-                                                <li>Need your wireframe</li>
-                                                <li>Design with Figma, Framer</li>
-                                                <li>Implement with Webflow, React, WordPress, Laravel/PHP</li>
-                                                <li>Remote/Online</li>
-                                                <li>Work in business days, no weekend.</li>
-                                                <li>Support 6 months</li>
-                                            </ul>
-                                            <a href="#" class="tmp-btn btn-primary btn-border w-100">Pick This Package</a>
-                                        </div>
-                                    </div>
-                                    <div class="col-lg-4 col-md-6 col-sm-12">
-                                        <div class="pricing-table large-padding tmponhover" style="--x: 473.5px; --y: 112.109375px;">
-                                            <div class="pricing-table-header">
-                                                <div class="top d-flex justify-content-between align-items-start">
-                                                    <h4>Standard</h4>
-
-                                                </div>
-                                                <h1>$159 <span>/ Month</span></h1>
-                                            </div>
-                                            <ul class="feature-lists">
-                                                <li>Need your wireframe</li>
-                                                <li>Design with Figma, Framer</li>
-                                                <li>Implement with Webflow, React, WordPress, Laravel/PHP</li>
-                                                <li>Remote/Online</li>
-                                                <li>Work in business days, no weekend.</li>
-                                                <li>Support 6 months</li>
+                                                <li>Basic Career Assessment</li>
+                                                <li>Resume Optimization Tips</li>
+                                                <li>Single Monthly Mentorship Session</li>
+                                                <li>Access to Student Community</li>
                                             </ul>
                                             <div class="popular-tag">Popular</div>
                                             <a href="#" class="tmp-btn btn-primary w-100">Pick This Package</a>
@@ -2580,18 +2377,34 @@
                                         <div class="pricing-table large-padding tmponhover" style="--x: 473.5px; --y: 112.109375px;">
                                             <div class="pricing-table-header">
                                                 <div class="top d-flex justify-content-between align-items-start">
-                                                    <h4>Premium</h4>
-
+                                                    <h4>Career Momentum</h4>
                                                 </div>
-                                                <h1>$259 <span>/ Month</span></h1>
+                                                <h1>₹599 <span>/ Month</span></h1>
                                             </div>
                                             <ul class="feature-lists">
-                                                <li>Need your wireframe</li>
-                                                <li>Design with Figma, Framer</li>
-                                                <li>Implement with Webflow, React, WordPress, Laravel/PHP</li>
-                                                <li>Remote/Online</li>
-                                                <li>Work in business days, no weekend.</li>
-                                                <li>Support 6 months</li>
+                                                <li>Full Strategic Roadmap</li>
+                                                <li>Priority Student Transitions</li>
+                                                <li>Bi-weekly Private Coaching</li>
+                                                <li>Exclusive Workshop Access</li>
+                                                <li>Professional Scaling Support</li>
+                                            </ul>
+                                            <a href="#" class="tmp-btn btn-primary btn-border w-100">Pick This Package</a>
+                                        </div>
+                                    </div>
+                                    <div class="col-lg-4 col-md-6 col-sm-12">
+                                        <div class="pricing-table large-padding tmponhover" style="--x: 473.5px; --y: 112.109375px;">
+                                            <div class="pricing-table-header">
+                                                <div class="top d-flex justify-content-between align-items-start">
+                                                    <h4>Future Shaper</h4>
+                                                </div>
+                                                <h1>₹999 <span>/ Month</span></h1>
+                                            </div>
+                                            <ul class="feature-lists">
+                                                <li>Unlimited Strategic Guidance</li>
+                                                <li>24/7 Priority Support</li>
+                                                <li>Weekly Executive Mentorship</li>
+                                                <li>Personal Branding Studio</li>
+                                                <li>Global Network Referrals</li>
                                             </ul>
                                             <a href="#" class="tmp-btn btn-border btn-primary w-100">Pick This Package</a>
                                         </div>
@@ -2604,18 +2417,17 @@
                                         <div class="pricing-table large-padding tmponhover" style="--x: 473.5px; --y: 112.109375px;">
                                             <div class="pricing-table-header">
                                                 <div class="top d-flex justify-content-between align-items-start">
-                                                    <h4>basic</h4>
+                                                    <h4>Path Finder</h4>
 
                                                 </div>
-                                                <h1>$159 <span>/ Year</span></h1>
+                                                <h1>₹599 <span>/ Month</span></h1>
                                             </div>
                                             <ul class="feature-lists">
-                                                <li>Need your wireframe</li>
-                                                <li>Design with Figma, Framer</li>
-                                                <li>Implement with Webflow, React, WordPress, Laravel/PHP</li>
-                                                <li>Remote/Online</li>
-                                                <li>Work in business days, no weekend.</li>
-                                                <li>Support 6 months</li>
+                                                <li>Full Strategic Roadmap</li>
+                                                <li>Priority Student Transitions</li>
+                                                <li>Bi-weekly Private Coaching</li>
+                                                <li>Exclusive Workshop Access</li>
+                                                <li>Professional Scaling Support</li>
                                             </ul>
                                             <a href="#" class="tmp-btn btn-border btn-primary w-100">Pick This Package</a>
                                         </div>
@@ -2627,15 +2439,14 @@
                                                     <h4>Standard</h4>
 
                                                 </div>
-                                                <h1>$259 <span>/ Year</span></h1>
+                                                <h1>₹999 <span>/ Month</span></h1>
                                             </div>
                                             <ul class="feature-lists">
-                                                <li>Need your wireframe</li>
-                                                <li>Design with Figma, Framer</li>
-                                                <li>Implement with Webflow, React, WordPress, Laravel/PHP</li>
-                                                <li>Remote/Online</li>
-                                                <li>Work in business days, no weekend.</li>
-                                                <li>Support 6 months</li>
+                                                <li>Unlimited Strategic Guidance</li>
+                                                <li>24/7 Priority Support</li>
+                                                <li>Weekly Executive Mentorship</li>
+                                                <li>Personal Branding Studio</li>
+                                                <li>Global Network Referrals</li>
                                             </ul>
                                             <div class="popular-tag">Popular</div>
                                             <a href="#" class="tmp-btn btn-primary w-100">Pick This Package</a>
@@ -2669,6 +2480,186 @@
             </div>
         </div>
         <!-- tmp Pricing area start -->
+
+                <!-- Start Main Counter up-5 Area  -->
+        <div class="tmp-counterup-area tmp-section-gapBottom">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-12">
+                        <div class="tmp-section-title-border text-center">
+                            <div class="pres-line-separator-wrapper text-center mb--10">
+                                <div class="line-separator line-left"></div>
+                                <span class="subtitle">
+                                    <span class="number">+15000</span>
+                                <span class="subtitle-text">Trusted</span>
+                                </span>
+                                <div class="line-separator line-right"></div>
+                            </div>
+                            <h2 class="title w-700 tmp-title-split">Happy customers.</h2>
+                        </div>
+                    </div>
+                </div>
+                <div class="row g-5 mt--20 tmp_jump_animation-wrapper">
+                    <div class="col-lg-3 col-md-6 col-sm-6 col-12 tmp-jump__item">
+                        <div class="count-box counter-style-4 tmp-card text-center without-border tmponhover">
+                            <div>
+                                <div class="count-number"><span class="odometer" data-count="199">000</span>K</div>
+                            </div>
+                            <h5 class="counter-title">Happy Clients.</h5>
+                            <div class="left-hover-counter"></div>
+                            <div class="right-hover-counter"></div>
+                        </div>
+                    </div>
+
+                    <div class="col-lg-3 col-md-6 col-sm-6 col-12 tmp-jump__item" data-sal-delay="100">
+                        <div class="count-box counter-style-4 tmp-card text-center without-border tmponhover">
+                            <div>
+                                <div class="count-number"><span class="odometer" data-count="575">000</span>+</div>
+                            </div>
+                            <h5 class="counter-title">Employees</h5>
+                            <div class="left-hover-counter"></div>
+                            <div class="right-hover-counter"></div>
+                        </div>
+                    </div>
+
+                    <div class="col-lg-3 col-md-6 col-sm-6 col-12 tmp-jump__item" data-sal-delay="200">
+                        <div class="count-box counter-style-4 tmp-card text-center without-border tmponhover">
+                            <div>
+                                <div class="count-number"><span class="odometer" data-count="69">00</span>M</div>
+                            </div>
+                            <h5 class="counter-title">Useful Programs</h5>
+                            <div class="left-hover-counter"></div>
+                            <div class="right-hover-counter"></div>
+                        </div>
+                    </div>
+
+                    <div class="col-lg-3 col-md-6 col-sm-6 col-12 tmp-jump__item" data-sal-delay="300">
+                        <div class="count-box counter-style-4 tmp-card text-center without-border tmponhover">
+                            <div>
+                                <div class="count-number"><span class="odometer" data-count="500">000</span>+</div>
+                            </div>
+                            <h5 class="counter-title">Useful Programs</h5>
+                            <div class="left-hover-counter"></div>
+                            <div class="right-hover-counter"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- End Main Counter up-5 Area  -->
+
+
+        <!-- Start testimonial  five-->
+        <div class="tmp-testimonial-area tmp-section-gapBottom">
+            <div class="container pb--70">
+                <div class="row mb--30">
+                    <div class="col-lg-12">
+                        <div class="tmp-section-title-border text-center">
+                            <div class="pres-line-separator-wrapper text-center mb--10">
+                                <div class="line-separator line-left"></div>
+                                <span class="subtitle">
+                                    <span class="number">+3</span>
+                                <span class="subtitle-text">Client Feedback</span>
+                                </span>
+                                <div class="line-separator line-right"></div>
+                            </div>
+                            <h2 class="title w-700 tmp-title-split">Client Feedback.</h2>
+                        </div>
+                    </div>
+                </div>
+                <div class="row tmp-slick-dot tmp-slick-arrow testimonial-activation">
+                    <div class="col-lg-12">
+                        <!-- Start single Testimonial -->
+                        <div class="testimonial-style-two">
+                            <div class="row align-items-center row--30">
+                                <div class="col-lg-5 col-md-4">
+                                    <div class="thumbnail"><img class="w-100" src="assets/images/testimonial/testimonial-dark-01.jpg" alt="Corporate Template"></div>
+                                </div>
+                                <div class="col-lg-7 col-md-8">
+                                    <div class="content mt_sm--40"><span class="form">USA</span>
+                                        <p class="description">When taking on new projects, I primarily look for a strong visual and aesthetic alignment, as well as a meaningful personal connection.
+                                        </p>
+                                        <div class="rating mb--15">
+                                            <a href="#" tabindex="0"><img src="assets/images/icons/stars.svg" alt=""></a>
+                                            <a href="#" tabindex="0"><img src="assets/images/icons/stars.svg" alt=""></a>
+                                            <a href="#" tabindex="0"><img src="assets/images/icons/stars.svg" alt=""></a>
+                                            <a href="#" tabindex="0"><img src="assets/images/icons/stars.svg" alt=""></a>
+                                            <a href="#" tabindex="0"><img src="assets/images/icons/stars.svg" alt=""></a>
+                                        </div>
+                                        <div class="client-info">
+                                            <h4 class="title">Darun Due</h4>
+                                            <h6 class="subtitle">Business Developer</h6>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- End single Testimonial -->
+                    </div>
+
+                    <div class="cal-lg-12">
+                        <!-- Start single Testimonial -->
+                        <div class="testimonial-style-two">
+                            <div class="row align-items-center row--30">
+                                <div class="col-lg-5 col-md-4">
+                                    <div class="thumbnail"><img class="w-100" src="assets/images/testimonial/testimonial-dark-02.jpg" alt="Corporate Template"></div>
+                                </div>
+                                <div class="col-lg-7 col-md-8">
+                                    <div class="content mt_sm--40"><span class="form">INDIA</span>
+                                        <p class="description">When taking on new projects, I primarily look for a strong visual and aesthetic alignment, as well as a meaningful personal connection.
+                                        </p>
+                                        <div class="rating mb--15">
+                                            <a href="#" tabindex="0"><img src="assets/images/icons/stars.svg" alt=""></a>
+                                            <a href="#" tabindex="0"><img src="assets/images/icons/stars.svg" alt=""></a>
+                                            <a href="#" tabindex="0"><img src="assets/images/icons/stars.svg" alt=""></a>
+                                            <a href="#" tabindex="0"><img src="assets/images/icons/stars.svg" alt=""></a>
+                                            <a href="#" tabindex="0"><img src="assets/images/icons/stars.svg" alt=""></a>
+                                        </div>
+                                        <div class="client-info">
+                                            <h4 class="title">Mohima Ale</h4>
+                                            <h6 class="subtitle">Business Developer</h6>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                        <!-- End single Testimonial -->
+                    </div>
+
+                    <div class="coll-lg-12">
+                        <!-- Start single Testimonial -->
+                        <div class="testimonial-style-two">
+                            <div class="row align-items-center row--30">
+                                <div class="col-lg-5 col-md-4">
+                                    <div class="thumbnail"><img class="w-100" src="assets/images/testimonial/testimonial-dark-03.jpg" alt="Corporate Template"></div>
+                                </div>
+                                <div class="col-lg-7 col-md-8">
+                                    <div class="content mt_sm--40"><span class="form">Bangladesh</span>
+                                        <p class="description">When taking on new projects, I primarily look for a strong visual and aesthetic alignment, as well as a meaningful personal connection.
+                                        </p>
+                                        <div class="rating mb--15">
+                                            <a href="#" tabindex="0"><img src="assets/images/icons/stars.svg" alt=""></a>
+                                            <a href="#" tabindex="0"><img src="assets/images/icons/stars.svg" alt=""></a>
+                                            <a href="#" tabindex="0"><img src="assets/images/icons/stars.svg" alt=""></a>
+                                            <a href="#" tabindex="0"><img src="assets/images/icons/stars.svg" alt=""></a>
+                                            <a href="#" tabindex="0"><img src="assets/images/icons/stars.svg" alt=""></a>
+                                        </div>
+                                        <div class="client-info">
+                                            <h4 class="title">John Roni</h4>
+                                            <h6 class="subtitle">Marketing Expart</h6>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                        <!-- End single Testimonial -->
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- End testimonial five  -->
 
         <!-- appoinment area start -->
         <div class="inv-appoinment-area-start tmp-section-gapBottom" id="contactus">
@@ -2732,7 +2723,7 @@
 
 
         <!-- Start Blog Area  -->
-        <div class="blog-area tmp-section-gapBottom" id="blog">
+        <!-- <div class="blog-area tmp-section-gapBottom" id="blog">
             <div class="container">
                 <div class="row">
                     <div class="col-lg-12">
@@ -2860,7 +2851,7 @@
                     </div>
                 </div>
             </div>
-        </div>
+        </div> -->
         <!-- End Blog Area  -->
 
         <!-- cta modern style -->
@@ -2874,16 +2865,16 @@
                                 <span class="header-caption">
                             <span class="cd-headline zoom">
                                 <span class="cd-words-wrapper">
+                                    <b class="is-hidden theme-gradient">Career.</b>
+                                    <b class="is-hidden theme-gradient">Growth.</b>
                                     <b class="is-visible theme-gradient">Consulting.</b>
-                                    <b class="is-hidden theme-gradient">Business.</b>
-                                    <b class="is-hidden theme-gradient">Innovation.</b>
                                 </span>
                                 </span>
                                 </span>
                             </h2>
                             <div class="right-wrapper mb--80 mb_sm--0">
                                 <p>
-                                    Looking for Collaboration? <br> <a href="#">info@yourdomain.com</a></p>
+                                    Looking for Career Opportunities? <br> <a href="#">info@proxiora.in</a></p>
                             </div>
                         </div>
                     </div>
@@ -2898,7 +2889,7 @@
                 <div class="container pb--80">
                     <div class="row">
                         <div class="col-lg-12">
-                            <div class="footer-message-and-form">
+                            <!-- <div class="footer-message-and-form">
                                 <p class="colophon">
                                     Corpox is powered by <a target="_blank" href="https://themeforest.net/user/inversweb">InversWeb</a>.
                                 </p>
@@ -2916,7 +2907,7 @@
                                     </form>
 
                                 </div>
-                            </div>
+                            </div> -->
                         </div>
                     </div>
                 </div>
@@ -2930,9 +2921,7 @@
                                         <img class="logo-dark" src="assets/images/logo/logo-dark.png" alt="Corporate Logo">
                                     </a>
                                 </div>
-                                <p class="subtitle mt--30">If you want to create a corporate template you can purshace now
-                                    our Corpex
-                                    template.</p>
+                                <p class="subtitle mt--30">Proxiora Consulting Private Limited — bridging the gap between education and industry through practical.</p>
                             </div>
                         </div>
                         <div class="col-lg-2 col-md-6 col-sm-6 col-12">
@@ -3012,7 +3001,7 @@
                         </div>
                         <div class="col-lg-6 col-md-4 col-sm-12 col-12">
                             <div class="copyright-right text-center text-lg-end">
-                                <p class="copyright-text">All Right © Corpox <span id="year"></span></p>
+                                <p class="copyright-text">All Right © Proxiora <span id="year"></span></p>
                             </div>
                         </div>
                     </div>
